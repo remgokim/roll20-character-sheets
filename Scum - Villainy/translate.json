@@ -1,0 +1,27 @@
+{
+	"crew-u": "Crew",
+	"name-u": "Name",
+	"alias-u": "Alias",
+	"look-u": "Look",
+	"heritage-u": "Heritage",
+	"background-u": "Background",
+	"vice-u": "vice",
+	"perveyor-u": "Perveyor",
+	"stress-u": "Stress",
+	"trauma-u": "Trauma",
+	"harm-u": "Harm",
+	"armor-u": "Amor",
+  "imperior-u": "Imperior"
+  "spacer-u": "Spacer"
+  "colonist-u": "Colonist"
+  "manufactured-u": "Manufactured"
+  "wanderer-u": "Wanderer"
+  "xeno-u" : "Xeno"
+  "academic-u" : "Academic"
+  "labor-u" : "Labor"
+  "cult-u" : "Cult"
+  "guilder-u" : "Guilder"
+	"militar-u" : "Military"
+  "noble-u" : "Noble"
+  "sindicate-u" : "Sindicate"
+  }
